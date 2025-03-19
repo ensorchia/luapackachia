@@ -20,7 +20,7 @@
 
 ### Chiadder ile kurulan oyunları kaldırma
 
-Chiadder ile kurulan oyunları kaldırmak için ;
+Chiadder ile kurulan oyunları kaldırmak için :
 
 1. Bu konuma gidin: C:\Program Files (x86)\Steam\config\depotcache Oyunla ilişkili manifest dosyasını silin.
 2. Bu konuma gidin: C:\Program Files (x86)\Steam\config\stplug-in Oyun ile ilişkili LUA/ST dosyasını silin. Steam'i yeniden başlatın.
