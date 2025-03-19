@@ -22,9 +22,8 @@
 
 Chiadder ile kurulan oyunları kaldırmak için ;
 
-1. Aşağıdaki konuma gidin: C:\Program Files (x86)\Steam\config\depotcache
-2. Oyunla ilişkili manifest dosyasını silin. Bu konuma gidin: C:\Program Files (x86)\Steam\config\stplug-in
-3. Oyun ile ilişkili LUA/ST dosyasını silin. Steam'i yeniden başlatın.
+1. Bu konuma gidin: C:\Program Files (x86)\Steam\config\depotcache Oyunla ilişkili manifest dosyasını silin.
+2. Bu konuma gidin: C:\Program Files (x86)\Steam\config\stplug-in Oyun ile ilişkili LUA/ST dosyasını silin. Steam'i yeniden başlatın.
 
 
 
