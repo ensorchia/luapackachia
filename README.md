@@ -3,7 +3,7 @@
 <center>
     <h1 align="center">luapacka for chiadder</h1>
     <h4 align="center"> <strong>Chiadder için</strong> çok amaçlı lua exploit aracı </h4>
-    <h5 align="center">Lütfen steam üzerinden oyunları satın alarak Spotify'ı destekleyin</h5>
+    <h5 align="center">Lütfen steam üzerinden oyunları satın alarak steam'i destekleyin</h5>
     <p align="center">
         <strong>Son güncelleme:</strong> 18 Mart 2025<br>       
     </p> 
@@ -23,7 +23,7 @@
 Chiadder ile kurulan oyunları kaldırmak için ;
 
 1. Aşağıdaki konuma gidin: C:\Program Files (x86)\Steam\config\depotcache
-2. Oyunla ilişkili manifesto dosyasını silin. Bu konuma gidin: C:\Program Files (x86)\Steam\config\stplug-in
+2. Oyunla ilişkili manifest dosyasını silin. Bu konuma gidin: C:\Program Files (x86)\Steam\config\stplug-in
 3. Oyun ile ilişkili LUA/ST dosyasını silin. Steam'i yeniden başlatın.
 
 
